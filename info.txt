@@ -1,0 +1,2 @@
+active link(dark/bold color)
+id is unique,class can be assigned to more than 1
